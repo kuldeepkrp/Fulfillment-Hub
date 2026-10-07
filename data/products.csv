@@ -1,0 +1,11 @@
+product_id,sku,product_name,category,variant
+P001,TSHIRT-RED-M,Classic T-Shirt,Apparel,Red / M
+P002,TSHIRT-BLU-L,Classic T-Shirt,Apparel,Blue / L
+P003,SHOE-BLK-42,Running Shoes,Footwear,Black / 42
+P004,SHOE-WHT-41,Running Shoes,Footwear,White / 41
+P005,BAG-BLK-01,Travel Backpack,Bags,Black
+P006,CAP-NAV-01,Sports Cap,Accessories,Navy
+P007,MUG-WHT-01,Ceramic Mug,Home,White
+P008,BOT-BLU-01,Water Bottle,Accessories,Blue
+P009,JKT-GRN-M,Light Jacket,Apparel,Green / M
+P010,WAL-BRN-01,Leather Wallet,Accessories,Brown
