@@ -1,0 +1,11 @@
+issue_id,order_id,issue_type,description,priority,status,assigned_to,created_at,resolved_at
+1,ORD-1001,Inventory,Required SHOE-BLK-42 stock is unavailable in Main Warehouse; transfer from Secondary Warehouse is pending.,High,Open,Warehouse Team,2026-10-06 17:03:46,
+2,ORD-1002,Inventory,Required SHOE-BLK-42 stock is unavailable in Main Warehouse; transfer from Secondary Warehouse is pending.,High,In Progress,Warehouse Team,2026-10-06 17:18:46,
+3,ORD-1003,Inventory,Required SHOE-BLK-42 stock is unavailable in Main Warehouse; transfer from Secondary Warehouse is pending.,High,Open,Warehouse Team,2026-10-06 17:28:46,
+4,ORD-1015,Wrong SKU,Picker selected a different variant during verification.,High,Open,Picking Team,2026-10-06 17:33:46,
+5,ORD-1028,Staging,Packed box could not be found at the assigned staging location.,Medium,Open,Warehouse Team,2026-10-06 17:23:46,
+6,ORD-1039,Courier Pickup,Courier did not collect the package during the scheduled pickup window.,High,Open,Office Team,2026-10-06 16:28:46,
+7,ORD-1047,Inventory,System quantity did not match the physical shelf count.,Medium,Resolved,Warehouse Team,2026-10-06 13:58:46,2026-10-06 14:58:46
+8,ORD-1058,Wrong SKU,Variant mismatch detected before packing.,Medium,Resolved,Picking Team,2026-10-06 12:58:46,2026-10-06 13:18:46
+9,ORD-1070,Staging,Box moved from original staging bay without an updated location.,Low,In Progress,Warehouse Team,2026-10-06 15:58:46,
+10,ORD-1081,Courier Pickup,Pickup timing needs confirmation before today's cut-off.,Medium,Open,Office Team,2026-10-06 17:40:46,
